@@ -2,6 +2,8 @@
 
 **A fully autonomous 4-DOF robot arm that detects, classifies and sorts objects by shape, built in simulation with ROS 2, MoveIt 2, Gazebo, PyTorch and OpenCV.**
 
+*Source code is private and available on request.*
+
 ![Final state of three separate 20-cycle runs, with every shape type grouped in its own container](media/sorted-runs.png)
 <sub>Final state after three separate 20-cycle runs. Every shape type ends up grouped in its own container.</sub>
 
